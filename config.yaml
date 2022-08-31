@@ -1,5 +1,6 @@
-data base
+data base:
 user:larissa
 password:321
-server
+server:
 port:8080
+host: "localhost"
