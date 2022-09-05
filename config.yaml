@@ -4,3 +4,5 @@ password:321
 server:
 port:8080
 host: "localhost"
+email: multiverso@multiverso.com.br
+password: loucura123
